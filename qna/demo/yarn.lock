@@ -756,19 +756,19 @@
     physical-cpu-count "^2.0.0"
 
 "@tensorflow-models/qna@1.0.0":
-  version "1.0.0-alpha3"
-  resolved "https://registry.yarnpkg.com/@tensorflow-models/qna/-/qna-1.0.0-alpha3.tgz#a6479c1b5a03b9b9accf20048c4979500b52b456"
-  integrity sha512-3fXseSAXLYh/0AXg0gXD/PobVPW3aCWc91a/Q+wLTJ0q5h2OR2m4A5FiR8aHDTuLHT+aOVu/P2OEMpigdfsNgw==
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/qna/-/qna-1.0.0.tgz#61893c2de2dd676b3286ca65c5ae27a7885ecbc4"
+  integrity sha512-5eVyiwm3PtMF/V9ecZaMYkAFPH3mcwl6p6CJ9jVecC7pWz3o/9uzlkqc+Dj5+2OlB8eFX4I3fxN4HlatXyOdqw==
 
 "@tensorflow/tfjs-converter@1.5.2":
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-1.5.2.tgz#ec1373f421313bdc6aac46d5578deb58e5093e8c"
   integrity sha512-RRrB8lZFxjLPHO6TwEJPgViVuJP5yqq0IPqA35PhWLYjsNNuC6Tx8vxEa5BZ0Le0mX21CTURak6pdmyac/Jc2w==
 
-"@tensorflow/tfjs-core@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-1.5.2.tgz#df76752cf7c43987df1548fb69820935bd8215d7"
-  integrity sha512-Rj6l8xf0PxrEKctvX3bvxjqhHLaCBQT0ChvqFK6//HBu8A1/ao4SzeVKpXKNnP9Niax+qV3c9U9VcOwwIkCMag==
+"@tensorflow/tfjs-core@1.7.4":
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-core/-/tfjs-core-1.7.4.tgz#43a44bc01d46de98ee9f15c0b2a4d9af4723e7ea"
+  integrity sha512-3G4VKJ6nPs7iCt6gs3bjRj8chihKrYWenf63R0pm7D9MhlrVoX/tpN4LYVMGgBL7jHPxMLKdOkoAZJrn/J88HQ==
   dependencies:
     "@types/offscreencanvas" "~2019.3.0"
     "@types/seedrandom" "2.4.27"
