@@ -756,14 +756,14 @@
     physical-cpu-count "^2.0.0"
 
 "@tensorflow-models/qna@1.0.0":
-  version "1.0.0-alpha3"
-  resolved "https://registry.yarnpkg.com/@tensorflow-models/qna/-/qna-1.0.0-alpha3.tgz#a6479c1b5a03b9b9accf20048c4979500b52b456"
-  integrity sha512-3fXseSAXLYh/0AXg0gXD/PobVPW3aCWc91a/Q+wLTJ0q5h2OR2m4A5FiR8aHDTuLHT+aOVu/P2OEMpigdfsNgw==
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/qna/-/qna-1.0.0.tgz#61893c2de2dd676b3286ca65c5ae27a7885ecbc4"
+  integrity sha512-5eVyiwm3PtMF/V9ecZaMYkAFPH3mcwl6p6CJ9jVecC7pWz3o/9uzlkqc+Dj5+2OlB8eFX4I3fxN4HlatXyOdqw==
 
-"@tensorflow/tfjs-converter@1.5.2":
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-1.5.2.tgz#ec1373f421313bdc6aac46d5578deb58e5093e8c"
-  integrity sha512-RRrB8lZFxjLPHO6TwEJPgViVuJP5yqq0IPqA35PhWLYjsNNuC6Tx8vxEa5BZ0Le0mX21CTURak6pdmyac/Jc2w==
+"@tensorflow/tfjs-converter@1.7.4":
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-1.7.4.tgz#90838fe9ca2d540f22a65fdcbe2311a01e786380"
+  integrity sha512-B/Ux9I3osI0CXoESGR0Xe5C6BsEfC04+g2xn5zVaW9KEuVEnGEgnuBQxgijRFzkqTwoyLv4ptAmjyIghVARX0Q==
 
 "@tensorflow/tfjs-core@1.5.2":
   version "1.5.2"
